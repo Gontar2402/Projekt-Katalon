@@ -4,4 +4,74 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin'</initValue>
+      <name>Global_variable_login</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'NPnhp8lbvIHTcBx1PsaVyg=='</initValue>
+      <name>Global_variable_password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Adres_strony').getValue(1, 2)</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Adres_strony_admin.php').getValue(1, 2)</initValue>
+      <name>Url_admin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Adres_strony').getValue(1, 3)</initValue>
+      <name>Url_przeladowanie</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>losowa_nazwa</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>data</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>data_dzien_wczesniej</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>zmienna_pomocna</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>Znak_sprawy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Nazwa_sprawy</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>skrot_PK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>Nazwa_dokumentu_wew</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('Adres_strony').getValue(1, 3)</initValue>
+      <name>Url_archiwum</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
