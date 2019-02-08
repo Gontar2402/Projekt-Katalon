@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dodawanie pliku Test_002.4 Akceptacja pisma wychodzacego</name>
+   <tag></tag>
+   <comment>na windows slash ma być w lewo a na linux w prawo
+na windows slash ma być w lewo a na linux w prawo</comment>
+   <testCaseGuid>3ad48444-f9ec-47c0-ad10-bbd6428d056c</testCaseGuid>
+</TestCaseEntity>
